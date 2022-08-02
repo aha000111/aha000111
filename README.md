@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Amir and I'm learning to code!
 
-I'm relatively new to coding and have just finished a 3-month full stack coding bootcamp. Now, I'm focusing on improving my react skills by creating projects some of which will be display on my portfolio website [Portfolio Website](https://cheery-mermaid-193794.netlify.app)
+I'm relatively new to coding and have just finished a 3-month full stack coding bootcamp. Now, I'm focusing on improving my react skills by creating projects some of which will be displayed on my portfolio website [Portfolio Website](https://cheery-mermaid-193794.netlify.app)
 
 
 
